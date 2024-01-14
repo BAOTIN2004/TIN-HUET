@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             // Bắt đầu trò chơi
             addCircleClass(circles[0], 'red');
+            removeCircleClass(circles[2], 'green');
 
             setTimeout(function () {
                 removeCircleClass(circles[0], 'red');

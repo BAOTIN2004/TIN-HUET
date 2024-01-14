@@ -8,7 +8,10 @@
         margin: 5px;
 }
 
-
+.title{
+    /* margin-left: 50%; */
+    text-align: center;
+}
 
 .tin-hieu .start{
 text-align: center;
